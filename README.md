@@ -1,0 +1,14 @@
+# WW_Phone-user 8.0.0 OPR1.170623.026 15.0410.1807.75-0 release-keys
+- manufacturer: asus
+- platform: msm8953
+- codename: ASUS_Z017D_1
+- flavor: WW_Phone-user
+- release: 8.0.0
+- id: OPR1.170623.026
+- incremental: 15.0410.1807.75-0
+- tags: release-keys
+- fingerprint: asus/WW_Phone/ASUS_Z017D_1:8.0.0/OPR1.170623.026/15.0410.1807.75-0:user/release-keys
+- is_ab: false
+- brand: asus
+- branch: WW_Phone-user-8.0.0-OPR1.170623.026-15.0410.1807.75-0-release-keys
+- repo: asus_asus_z017d_1_dump
